@@ -1,0 +1,61 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	background-color: rgba(94, 88, 88, 0.58);
+}
+#frame{
+	padding: 20px;
+	border-radius: 25px;
+	border: 1px solid black;
+	width: 750px;
+	height: auto;
+	margin: auto;
+	background-color: rgba(237, 31, 31, 0.7);
+}
+.mode{
+	display:inline;
+	text-align: center;
+}
+h3.mode{
+	margin: 0 10px;
+}
+h3.grey{
+	text-shadow: 10px 1px 62px black;
+	color: rgba(75, 75, 75, 0.52);
+}
+.wrapper-1{
+	margin: 10px auto;
+	width: 260px;
+}
+.wrapper-2{
+	margin: 10px auto;
+	width: 205px;
+}
+.container{
+	margin: 0 auto;
+	border: 1px solid black;
+	opacity: 1;
+}
+.block{
+	display: inline-block;
+	margin: 0 2px;
+}
+.black{
+	border:#000000 1px;
+	background-color: #000000;
+}
+.random{
+	
+}
+h1{
+	text-align: center;	
+}
+button{
+	border-radius: 10px;
+	border: 5px solid #670505;
+	opacity: 0.75;
+	border-style: outset;
+	background-color: #c30c0c;
+	display: inline-block;
+	width: 100px;
+	font-size: large;
+}
